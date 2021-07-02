@@ -3,5 +3,5 @@ Trying to represent the [Unity terrian tile](https://docs.unity3d.com/Packages/c
 
 package content: 
 
-[!image](https://i.imgur.com/CYgsPvL.gif)
+![image](https://i.imgur.com/CYgsPvL.gif)
 
