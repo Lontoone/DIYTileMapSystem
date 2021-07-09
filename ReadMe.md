@@ -5,3 +5,4 @@ package content:
 
 ![image](https://i.imgur.com/CYgsPvL.gif)
 
+I am using a piles of gameobjects to simulate the tilemap, it is not a good practice, but just a showcase on how tile edge detects.
